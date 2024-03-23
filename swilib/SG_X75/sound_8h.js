@@ -57,7 +57,7 @@ var sound_8h =
       [ "VOLUME_ORGANISER", "group___sound.html#gga2f70bfcbeb2032121ed3cb355bc8a182aefabddf2642ff13b2c21088a9d8cfc3a", null ],
       [ "VOLUME_APPLICATIONS", "group___sound.html#gga2f70bfcbeb2032121ed3cb355bc8a182a72244be02ec85a8c52d75fdaa31d658b", null ]
     ] ],
-    [ "RamMediaIsPlaying", "group___sound.html#ga5711ad6be6e6b6a0bcb07f398191ad8c", null ],
+    [ "RamMediaIsPlaying", "group___sound.html#ga25f546e713d427446c3d26bf78eedfee", null ],
     [ "IsPlayerOn", "group___sound.html#ga1f0d40b59a1ad5bdcc156df5dbba1a71", null ],
     [ "GetPlayStatus", "group___sound.html#ga8b458f020a130911922204d5b11f8339", null ],
     [ "PlaySound", "group___sound.html#ga36212ddf58d0e3f3670592a2dc775b61", null ],
@@ -67,14 +67,12 @@ var sound_8h =
     [ "PlayMelody_PausePlayback", "group___sound.html#ga53c69e1205bea2ad10f63bc11356cef5", null ],
     [ "PlayMelody_ResumePlayBack", "group___sound.html#gafeb0b910d2a8ce6838c86bfe259c08f9", null ],
     [ "PlayMelody_SetPosition", "group___sound.html#gaab01cbff8a96265a0cab55f1b06bf942", null ],
-    [ "GetPlayObjById", "group___sound.html#gaef4604adf7f2edb9d2f070a2e419ad25", null ],
+    [ "GetPlayObjById", "group___sound.html#ga9bd5e56f13f07f6950a7783dc7c367cb", null ],
     [ "GetPlayObjPosition", "group___sound.html#ga47a461f4592ed0a2289c55e275ea8732", null ],
     [ "GetPlayObjDuration", "group___sound.html#gaa3211d543cf411e84f1364f208a35584", null ],
     [ "PlayMelody_GetPosition", "group___sound.html#gad3bd5ebede0583620de217ff6220a330", null ],
     [ "PlayMelody_GetDuration", "group___sound.html#ga2989aa7c6fb9bc15c228032c0c60078e", null ],
     [ "PlayFile", "group___sound.html#gaa72dd56ff46de16afed8c90775c80716", null ],
     [ "PlaySoundLoop", "group___sound.html#gac10d3fb6d442bed3c3c17f6a72ffce76", null ],
-    [ "ChangeVolume", "group___sound.html#ga7c24f2a0df404f1878857e7ab58ee6ad", null ],
-    [ "RamMPlayer_CtrlCode", "group___sound.html#ga4f3758bfb90b60a00472d5386e0b5687", null ],
-    [ "MEDIA_PLAYLAST", "group___sound.html#ga7cdf3aebc7324c1292197eca0f37602e", null ]
+    [ "ChangeVolume", "group___sound.html#ga7c24f2a0df404f1878857e7ab58ee6ad", null ]
 ];
