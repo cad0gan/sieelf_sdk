@@ -17,6 +17,7 @@ var date_8h =
     [ "GetSecondsFromDateTimeSince1997", "group___date_time.html#ga89f100b55a9b46d9f6c344389df601b0", null ],
     [ "GetSecondsFromTime", "group___date_time.html#gad9d9a17c9960ee1122e4a36b394c3324", null ],
     [ "GetTimeFromSeconds", "group___date_time.html#ga837b87484410dd374cabcae4125b381a", null ],
+    [ "GetTimeFromMilliseconds", "group___date_time.html#ga2ba38af8b08e79a371fbbca618e620f3", null ],
     [ "GetDateTimeFromSeconds", "group___date_time.html#ga75d6141307ee4ffbb8cd0d475814abbf", null ],
     [ "GetDateTimeFromSecondsSince1997", "group___date_time.html#ga784f6c58342844e43afddac3e8fcf3da", null ],
     [ "CmpDates", "group___date_time.html#ga50a090750c901b3ef72488b678db5f6e", null ],
