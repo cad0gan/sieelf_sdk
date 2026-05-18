@@ -1,5 +1,17 @@
 var NAVTREEINDEX56 =
 {
+"x509v3_8h.html#struct_g_e_n_e_r_a_l___n_a_m_e__st":[1,0,0,0,0,50,6],
+"x509v3_8h.html#struct_n_o_t_i_c_e_r_e_f__st":[1,0,0,0,0,50,17],
+"x509v3_8h.html#struct_p_k_e_y___u_s_a_g_e___p_e_r_i_o_d__st":[1,0,0,0,0,50,4],
+"x509v3_8h.html#struct_p_o_l_i_c_y_i_n_f_o__st":[1,0,0,0,0,50,21],
+"x509v3_8h.html#struct_p_o_l_i_c_y_q_u_a_l_i_n_f_o__st":[1,0,0,0,0,50,19],
+"x509v3_8h.html#struct_s_x_n_e_t___i_d__st":[1,0,0,0,0,50,14],
+"x509v3_8h.html#struct_s_x_n_e_t__st":[1,0,0,0,0,50,16],
+"x509v3_8h.html#struct_u_s_e_r_n_o_t_i_c_e__st":[1,0,0,0,0,50,18],
+"x509v3_8h.html#struct_x509_v3___c_o_n_f___m_e_t_h_o_d__st":[1,0,0,0,0,50,1],
+"x509v3_8h.html#structother_name__st":[1,0,0,0,0,50,5],
+"x509v3_8h.html#structstack__st___a_c_c_e_s_s___d_e_s_c_r_i_p_t_i_o_n":[1,0,0,0,0,50,9],
+"x509v3_8h.html#structstack__st___d_i_s_t___p_o_i_n_t":[1,0,0,0,0,50,12],
 "x509v3_8h.html#structstack__st___g_e_n_e_r_a_l___n_a_m_e":[1,0,0,0,0,50,8],
 "x509v3_8h.html#structstack__st___p_o_l_i_c_y_i_n_f_o":[1,0,0,0,0,50,22],
 "x509v3_8h.html#structstack__st___p_o_l_i_c_y_q_u_a_l_i_n_f_o":[1,0,0,0,0,50,20],
