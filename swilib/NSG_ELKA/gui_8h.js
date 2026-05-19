@@ -177,6 +177,8 @@ var gui_8h =
     [ "getRGBcolor", "group___g_u_i.html#ga7d5f69fba54912c16198bde88020304f", null ],
     [ "getRGBbyPaletteAdr", "group___g_u_i.html#gab499507dd393339304c4ca3a7f8fec67", null ],
     [ "setColor", "group___g_u_i.html#ga590d43e60ccfdfdf9d976cb9117c02e5", null ],
+    [ "RscMgr_CsSetColor", "group___g_u_i.html#gabaf4093478320218b6865c1553019ae9", null ],
+    [ "RscMgr_CsUpdate", "group___g_u_i.html#gac92a65c673699530efe09f4cb4e212a9", null ],
     [ "StoreXYWHtoRECT", "group___g_u_i.html#ga9e3013d914beece3a561e757832a19c1", null ],
     [ "StoreXYXYtoRECT", "group___g_u_i.html#gabaf119e62982ef39009dd65e910b4df1", null ],
     [ "IsGuiOnTop", "group___g_u_i.html#ga3d9b4a64aed308da4fdd211da72f4b1d", null ],

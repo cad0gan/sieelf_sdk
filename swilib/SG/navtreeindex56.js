@@ -1,5 +1,11 @@
 var NAVTREEINDEX56 =
 {
+"x509v3_8h.html#affb93bea363dae65b2dc9895e87eabdb":[1,0,0,0,0,50,53],
+"x509v3_8h.html#struct_a_c_c_e_s_s___d_e_s_c_r_i_p_t_i_o_n__st":[1,0,0,0,0,50,7],
+"x509v3_8h.html#struct_a_u_t_h_o_r_i_t_y___k_e_y_i_d__st":[1,0,0,0,0,50,13],
+"x509v3_8h.html#struct_b_a_s_i_c___c_o_n_s_t_r_a_i_n_t_s__st":[1,0,0,0,0,50,3],
+"x509v3_8h.html#struct_d_i_s_t___p_o_i_n_t___n_a_m_e__st":[1,0,0,0,0,50,10],
+"x509v3_8h.html#struct_d_i_s_t___p_o_i_n_t__st":[1,0,0,0,0,50,11],
 "x509v3_8h.html#struct_g_e_n_e_r_a_l___n_a_m_e__st":[1,0,0,0,0,50,6],
 "x509v3_8h.html#struct_n_o_t_i_c_e_r_e_f__st":[1,0,0,0,0,50,17],
 "x509v3_8h.html#struct_p_k_e_y___u_s_a_g_e___p_e_r_i_o_d__st":[1,0,0,0,0,50,4],
