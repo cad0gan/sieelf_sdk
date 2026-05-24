@@ -790,11 +790,12 @@ void *GetPBarProc3()
 __swi_end(0x83C5, GetPBarProc3, ());
 /**
  * Progressbar popup.
- * @param flags
+ * @param flags			#PopupDialogFlags
  * @param message		id from the langpack or pointer to the C-string
  * @param pbar_desc		pointer to the #PBAR_DESC or NULL
  * @param initial_value	initial value 0-100
- * @param initial_ws	pointer to initial WSHDR string or NULL, don't need to free memory
+ * @param initial_ws	pointer to initial WSHDR string or NULL.
+ *                      The passed WSHDR will be destroyed by the function; caller must not free it.
  * @return GUI_ID
  * */
 __swi_begin(0x3C2)
