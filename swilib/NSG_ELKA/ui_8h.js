@@ -27,12 +27,16 @@ var ui_8h =
     [ "GUI_GHOOK_CALLBACK", "group___u_i.html#ga1eb6c1e877aba2abf3ee5acd8ce6e72b", null ],
     [ "GUI_LOCRET_CALLBACK", "group___u_i.html#ga80aa7b354dc699b12aa3d5cdab273594", null ],
     [ "MenuSearchCallBack", "group___u_i.html#ga46b5f5853ab06754964dc5f18940a7e5", null ],
-    [ "MsgBoxFlags", "group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68", [
-      [ "MSG_BOX_CANCELANLE", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a7d338a85f0005889b0128b4e7b16962e", null ],
-      [ "MSG_BOX_TRANSPARENT_BG", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68ad69d8beb077d3452edb4b8cf126ef336", null ]
-    ] ],
     [ "PopupDialogFlags", "group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750", [
-      [ "CONFITM_BOX_TRANSPARENT_BG", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750afe080264a8865df1c80ff35573606ddf", null ]
+      [ "POPUP_FULLSCREEN", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750af59db8ad7cb3265e7ee8ab9799cdfbf2", null ],
+      [ "POPUP_NORMAL", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a7b11a3bd35fe5c683c2d32e4501ce34f", null ],
+      [ "POPUP_DUMMY_CSM", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a5cac8cc88dad8886a3bb217eeb5c0729", null ]
+    ] ],
+    [ "MsgBoxFlags", "group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68", [
+      [ "MSG_BOX_FULLSCREEN", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68aa0f952d6f9c8eff67dad5fc5ab3fa114", null ],
+      [ "MSG_BOX_NORMAL", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a471ae3fc7d24eec16c943d38bc87e497", null ],
+      [ "MSG_BOX_DUMMY_CSM", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a954ea06b6a849511c6542e48b8a4d202", null ],
+      [ "MSG_BOX_CANCELABLE", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a45c9aac87df55d970dac111076940ce3", null ]
     ] ],
     [ "SetSoftKeyID", "group___u_i.html#ga954bc7c4b183afe98ab11ce9e3b8c8a6", [
       [ "SET_LEFT_SOFTKEY", "group___u_i.html#gga954bc7c4b183afe98ab11ce9e3b8c8a6a500231a3e3ae981c6c84e9e06a9d13f1", null ],

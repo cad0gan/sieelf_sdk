@@ -234,18 +234,28 @@ Typedefs</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ga0726c0db7c874c6a1d55aa2371172f68" id="r_ga0726c0db7c874c6a1d55aa2371172f68"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68">MsgBoxFlags</a> { <br />
-&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a7d338a85f0005889b0128b4e7b16962e">MSG_BOX_CANCELANLE</a> = 1 &lt;&lt; 0
+<tr class="memitem:ga0599f065f2e0ef416c1dab4c1e2c7750" id="r_ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750">PopupDialogFlags</a> { <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750af59db8ad7cb3265e7ee8ab9799cdfbf2">POPUP_FULLSCREEN</a> = 0x00
 , <br />
-&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68ad69d8beb077d3452edb4b8cf126ef336">MSG_BOX_TRANSPARENT_BG</a> = 1 &lt;&lt; 1
+&#160;&#160;<a class="el" href="group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a7b11a3bd35fe5c683c2d32e4501ce34f">POPUP_NORMAL</a> = 0x01
+, <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a5cac8cc88dad8886a3bb217eeb5c0729">POPUP_DUMMY_CSM</a> = 0x10
+<br />
+ }</td></tr>
+<tr class="memdesc:ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="mdescLeft">&#160;</td><td class="mdescRight">Popup dialog flags.  <a href="group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750">More...</a><br /></td></tr>
+<tr class="separator:ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga0726c0db7c874c6a1d55aa2371172f68" id="r_ga0726c0db7c874c6a1d55aa2371172f68"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68">MsgBoxFlags</a> { <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68aa0f952d6f9c8eff67dad5fc5ab3fa114">MSG_BOX_FULLSCREEN</a> = POPUP_FULLSCREEN
+, <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a471ae3fc7d24eec16c943d38bc87e497">MSG_BOX_NORMAL</a> = POPUP_NORMAL
+, <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a954ea06b6a849511c6542e48b8a4d202">MSG_BOX_DUMMY_CSM</a> = POPUP_DUMMY_CSM
+, <br />
+&#160;&#160;<a class="el" href="group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a45c9aac87df55d970dac111076940ce3">MSG_BOX_CANCELABLE</a> = 0x80000000
 <br />
  }</td></tr>
 <tr class="memdesc:ga0726c0db7c874c6a1d55aa2371172f68"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flags for <a class="el" href="group___u_i.html#gae2b652167c996bd235043ce17e12e19e" title="Show info popup.">ShowMSG</a>.  <a href="group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68">More...</a><br /></td></tr>
 <tr class="separator:ga0726c0db7c874c6a1d55aa2371172f68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga0599f065f2e0ef416c1dab4c1e2c7750" id="r_ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750">PopupDialogFlags</a> { <a class="el" href="group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750afe080264a8865df1c80ff35573606ddf">CONFITM_BOX_TRANSPARENT_BG</a> = 1 &lt;&lt; 0
- }</td></tr>
-<tr class="memdesc:ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flags for <a class="el" href="group___u_i.html#ga2db5f3afeb7ce1f15eebf9a42de8a15b" title="Confirmation popup with Yes/No.">MsgBoxYesNo</a> or MsgBoxOkCancel.  <a href="group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750">More...</a><br /></td></tr>
-<tr class="separator:ga0599f065f2e0ef416c1dab4c1e2c7750"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga954bc7c4b183afe98ab11ce9e3b8c8a6" id="r_ga954bc7c4b183afe98ab11ce9e3b8c8a6"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group___u_i.html#ga954bc7c4b183afe98ab11ce9e3b8c8a6">SetSoftKeyID</a> { <br />
 &#160;&#160;<a class="el" href="group___u_i.html#gga954bc7c4b183afe98ab11ce9e3b8c8a6a500231a3e3ae981c6c84e9e06a9d13f1">SET_LEFT_SOFTKEY</a> = 0
 , <br />
