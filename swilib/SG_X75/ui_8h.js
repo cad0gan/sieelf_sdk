@@ -35,8 +35,7 @@ var ui_8h =
     [ "MsgBoxFlags", "group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68", [
       [ "MSG_BOX_FULLSCREEN", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68aa0f952d6f9c8eff67dad5fc5ab3fa114", null ],
       [ "MSG_BOX_NORMAL", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a471ae3fc7d24eec16c943d38bc87e497", null ],
-      [ "MSG_BOX_DUMMY_CSM", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a954ea06b6a849511c6542e48b8a4d202", null ],
-      [ "MSG_BOX_CANCELABLE", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a45c9aac87df55d970dac111076940ce3", null ]
+      [ "MSG_BOX_DUMMY_CSM", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a954ea06b6a849511c6542e48b8a4d202", null ]
     ] ],
     [ "SetSoftKeyID", "group___u_i.html#ga954bc7c4b183afe98ab11ce9e3b8c8a6", [
       [ "SET_LEFT_SOFTKEY", "group___u_i.html#gga954bc7c4b183afe98ab11ce9e3b8c8a6a500231a3e3ae981c6c84e9e06a9d13f1", null ],
