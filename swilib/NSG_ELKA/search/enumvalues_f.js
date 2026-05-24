@@ -16,11 +16,8 @@ var searchData=
   ['pi_5fvendor_13',['PI_VENDOR',['../group___info.html#gga37de38f349f79c35bd4a4b698812c1aeab7b84f3bc7ccefc294d61975b5211812',1,'info.h']]],
   ['play_5fbutton_14',['PLAY_BUTTON',['../group___g_u_i.html#gga8071c23e5ca850e22bbe6454bde07718a539b5c085fbd6533b483a13ce487758a',1,'gui.h']]],
   ['poc_5fbutton_15',['POC_BUTTON',['../group___g_u_i.html#gga8071c23e5ca850e22bbe6454bde07718aab14f351d5923590eb8c986eac8c46bd',1,'gui.h']]],
-  ['popup_5fdummy_5fcsm_16',['POPUP_DUMMY_CSM',['../group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a5cac8cc88dad8886a3bb217eeb5c0729',1,'ui.h']]],
-  ['popup_5ffullscreen_17',['POPUP_FULLSCREEN',['../group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750af59db8ad7cb3265e7ee8ab9799cdfbf2',1,'ui.h']]],
-  ['popup_5fnormal_18',['POPUP_NORMAL',['../group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a7b11a3bd35fe5c683c2d32e4501ce34f',1,'ui.h']]],
-  ['profile_5fvolume_5ftype_5falarmclock_19',['PROFILE_VOLUME_TYPE_ALARMCLOCK',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98ae3e6aa3e59c56b2340765130c4b71b57',1,'settings.h']]],
-  ['profile_5fvolume_5ftype_5fincall_20',['PROFILE_VOLUME_TYPE_INCALL',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98abf36258270fa345a2e8ad89d899d1cfa',1,'settings.h']]],
-  ['profile_5fvolume_5ftype_5fmain_21',['PROFILE_VOLUME_TYPE_MAIN',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98a7f5e5799104aeab8883ca329e48bb45d',1,'settings.h']]],
-  ['ptt_5fbutton_22',['PTT_BUTTON',['../group___g_u_i.html#gga8071c23e5ca850e22bbe6454bde07718aaac96a60c6282d42eb318168277efb85',1,'gui.h']]]
+  ['profile_5fvolume_5ftype_5falarmclock_16',['PROFILE_VOLUME_TYPE_ALARMCLOCK',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98ae3e6aa3e59c56b2340765130c4b71b57',1,'settings.h']]],
+  ['profile_5fvolume_5ftype_5fincall_17',['PROFILE_VOLUME_TYPE_INCALL',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98abf36258270fa345a2e8ad89d899d1cfa',1,'settings.h']]],
+  ['profile_5fvolume_5ftype_5fmain_18',['PROFILE_VOLUME_TYPE_MAIN',['../group___settings.html#gga1f713c4f7ac2b3b71ed3aee2d5f42e98a7f5e5799104aeab8883ca329e48bb45d',1,'settings.h']]],
+  ['ptt_5fbutton_19',['PTT_BUTTON',['../group___g_u_i.html#gga8071c23e5ca850e22bbe6454bde07718aaac96a60c6282d42eb318168277efb85',1,'gui.h']]]
 ];

@@ -27,15 +27,13 @@ var ui_8h =
     [ "GUI_GHOOK_CALLBACK", "group___u_i.html#ga1eb6c1e877aba2abf3ee5acd8ce6e72b", null ],
     [ "GUI_LOCRET_CALLBACK", "group___u_i.html#ga80aa7b354dc699b12aa3d5cdab273594", null ],
     [ "MenuSearchCallBack", "group___u_i.html#ga46b5f5853ab06754964dc5f18940a7e5", null ],
-    [ "PopupDialogFlags", "group___u_i.html#ga0599f065f2e0ef416c1dab4c1e2c7750", [
-      [ "POPUP_FULLSCREEN", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750af59db8ad7cb3265e7ee8ab9799cdfbf2", null ],
-      [ "POPUP_NORMAL", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a7b11a3bd35fe5c683c2d32e4501ce34f", null ],
-      [ "POPUP_DUMMY_CSM", "group___u_i.html#gga0599f065f2e0ef416c1dab4c1e2c7750a5cac8cc88dad8886a3bb217eeb5c0729", null ]
-    ] ],
-    [ "MsgBoxFlags", "group___u_i.html#ga0726c0db7c874c6a1d55aa2371172f68", [
-      [ "MSG_BOX_FULLSCREEN", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68aa0f952d6f9c8eff67dad5fc5ab3fa114", null ],
-      [ "MSG_BOX_NORMAL", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a471ae3fc7d24eec16c943d38bc87e497", null ],
-      [ "MSG_BOX_DUMMY_CSM", "group___u_i.html#gga0726c0db7c874c6a1d55aa2371172f68a954ea06b6a849511c6542e48b8a4d202", null ]
+    [ "DialogFlags", "group___u_i.html#ga2be210b052231403d60a570d306678fa", null ],
+    [ "PopupDialogFlags", "group___u_i.html#gaebcc02a662b79e0d850481916e725b56", null ],
+    [ "MsgBoxFlags", "group___u_i.html#gaf3125897938e2d99957441588e777440", null ],
+    [ "DialogFlags", "group___u_i.html#gadc89cbf8ced1681ad91f55803b3ee2de", [
+      [ "DIALOG_FULLSCREEN", "group___u_i.html#ggadc89cbf8ced1681ad91f55803b3ee2deac5f5c94f45edcba63b99d414c889a88c", null ],
+      [ "DIALOG_NORMAL", "group___u_i.html#ggadc89cbf8ced1681ad91f55803b3ee2dea2ef60b4729859ab2f9c1bd4cbb420f25", null ],
+      [ "DIALOG_DUMMY_CSM", "group___u_i.html#ggadc89cbf8ced1681ad91f55803b3ee2deae3f02ddb6aa4dab83b987186c6ddb3d0", null ]
     ] ],
     [ "SetSoftKeyID", "group___u_i.html#ga954bc7c4b183afe98ab11ce9e3b8c8a6", [
       [ "SET_LEFT_SOFTKEY", "group___u_i.html#gga954bc7c4b183afe98ab11ce9e3b8c8a6a500231a3e3ae981c6c84e9e06a9d13f1", null ],
