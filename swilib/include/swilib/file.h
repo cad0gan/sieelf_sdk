@@ -422,10 +422,11 @@ int fmove(const char *old_name, const char *new_name, uint32_t *err)
 __swi_end(0x08E, fmove, (old_name, new_name, err));
 
 /**
- * Checking that a path is a folder.
+ * Check whether a directory exists at the given path.
  * @param path		the path we are checking
  * @param[out] err	error code
- * @return 1 is that folder, 0 is that file, and < 0 indicates an error.
+ * @return 1 if the path exists and is a directory,
+ *         0 if the directory does not exist (or path is not a directory)
  * */
 __swi_begin(0x091)
 int isdir(const char *path, uint32_t *err)
