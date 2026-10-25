@@ -1,5 +1,6 @@
 var NAVTREEINDEX48 =
 {
+"ssl3_8h.html#structssl3__record__st":[1,0,0,0,0,43,0],
 "ssl3_8h.html#structssl3__state__st":[1,0,0,0,0,43,2],
 "ssl3_8h.html#structssl3__state__st_8tmp":[1,0,0,0,0,43,3],
 "ssl3_8h_source.html":[1,0,0,0,0,43],
@@ -248,6 +249,5 @@ var NAVTREEINDEX48 =
 "ssl_8h.html#a51997b8e42dde39bdb8c376c6a18bf1d":[1,0,0,0,0,40,401],
 "ssl_8h.html#a51a4971cbf4874e87ac13f9067fc1f2f":[1,0,0,0,0,40,681],
 "ssl_8h.html#a52584d9fa23f86c36e833b718e0b64a2":[1,0,0,0,0,40,504],
-"ssl_8h.html#a52928348352e3aaf52e6e5947bf9f397":[1,0,0,0,0,40,471],
-"ssl_8h.html#a52a68ad739c4102b1ed711de00a9aff8":[1,0,0,0,0,40,240]
+"ssl_8h.html#a52928348352e3aaf52e6e5947bf9f397":[1,0,0,0,0,40,471]
 };
